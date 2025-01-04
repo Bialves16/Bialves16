@@ -99,7 +99,7 @@ Oi, sou a Beatriz Alves, tenho 18 anos e sou apaixonada por tecnologia e program
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="180" 
+    height="150" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Bialves16&show_icons=true&theme=great-gatsby&hide=contribs,prs&include_all_commits=true&locale=pt-br" 
   />
