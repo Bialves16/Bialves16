@@ -1,8 +1,8 @@
 # 👩🏻‍💻 Beatriz Alves
 
-**`Desenvolvedora FullStack e Mobile`**
+**`Futura Engenheirade software`**
 
-Oi, sou a Beatriz Alves, tenho 18 anos e sou apaixonada por tecnologia e programação. Estou constantemente aprendendo e desenvolvendo soluções inovadoras que fazem a diferença. Gosto de transformar ideias em projetos concretos, criando desde interfaces intuitivas no frontend até a lógica eficiente do backend. Adoro desafios e acredito que o aprendizado contínuo é o caminho para construir um futuro incrível na tecnologia.
+Oi, me chamo Beatriz Alves, tenho 18 anos e sou apaixonada por tecnologia e programação. Estou constantemente aprendendo e desenvolvendo soluções inovadoras que fazem a diferença. Gosto de transformar ideias em projetos concretos, criando desde interfaces intuitivas no frontend até a lógica eficiente do backend. Adoro desafios e acredito que o aprendizado contínuo é o caminho para construir um futuro incrível na tecnologia.
 
 ---
 
@@ -34,59 +34,11 @@ Oi, sou a Beatriz Alves, tenho 18 anos e sou apaixonada por tecnologia e program
 />
 <img 
     align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="NodeJs"
-    title="Node.js" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Python" 
     title="Python"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Flutter"
-    title="Flutter" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="C"
-    title="C" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
-/>
-<img 
-    align="left" 
-    alt="C++"
-    title="C++" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
 />
 
 
