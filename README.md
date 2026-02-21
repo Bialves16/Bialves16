@@ -2,8 +2,7 @@
 
 **`Futura Engenheirade software`**
 
-Oi, me chamo Beatriz Alves, tenho 18 anos e sou apaixonada por tecnologia e programação. Estou constantemente aprendendo e desenvolvendo soluções inovadoras que fazem a diferença. Gosto de transformar ideias em projetos concretos, criando desde interfaces intuitivas no frontend até a lógica eficiente do backend. Adoro desafios e acredito que o aprendizado contínuo é o caminho para construir um futuro incrível na tecnologia.
-
+Oi, me chamo Bia e estou estudando para me tornar uma engenheira de software. Me interesso por todas as áreas da tecnologia, mas meu foco é sistemas embarcados e iot.
 ---
 
 ### 🤖 Linguagens e Tecnologias
@@ -40,26 +39,3 @@ Oi, me chamo Beatriz Alves, tenho 18 anos e sou apaixonada por tecnologia e prog
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="150" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Bialves16&show_icons=true&theme=great-gatsby&hide=contribs,prs&include_all_commits=true&locale=pt-br" 
-  />
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="100" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=bialves16&theme=great-gatsby&layout=compact&custom_title=Tecnologias&langs_count=11" 
-  />
-
-</p>
