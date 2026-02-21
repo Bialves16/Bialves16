@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Beatriz Alves
 
-**`Futura Engenheirade software`**
+**`Futura engenheira de software`**
 
 Oi, me chamo Bia e estou estudando para me tornar uma engenheira de software. Me interesso por todas as áreas da tecnologia, mas meu foco é sistemas embarcados e iot.
 ---
