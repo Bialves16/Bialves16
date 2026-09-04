@@ -66,11 +66,3 @@ Tenho interesse em engenharia de software, dados, inteligência artificial e no 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Next" 
-    title="Next"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/next-original.svg" 
-/>
