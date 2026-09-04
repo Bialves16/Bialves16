@@ -1,8 +1,10 @@
 # 👩🏻‍💻 Beatriz Alves
 
-**`Futura engenheira de software`**
+**`Estudante de Ciência de Dados e IA`**
 
-<p>Olá, me chamo Beatriz e estou estudando para me tornar uma engenheira de software. Me interesso por todas as áreas da tecnologia, mas meu foco é sistemas embarcados e iot.</p>
+<p>Olá, me chamo Beatriz, atualmente cursando Ciência de Dados e Inteligência Artificial na PUC-Campinas.
+
+Tenho interesse em engenharia de software, dados, inteligência artificial e no desenvolvimento de projetos práticos para aprender na prática.</p>
 
 ------------
 
@@ -60,6 +62,14 @@
     align="left" 
     alt="React" 
     title="React"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Next" 
+    title="Next"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
